@@ -1,0 +1,2 @@
+envs:
+  STATIC_FILES_PATH: "./static"
